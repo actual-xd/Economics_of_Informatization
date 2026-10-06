@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Запуск JupyterLab из корня проекта Economics_of_Informatization и открытие в браузере.
 # Использование: ./start_jupyter.sh
-set -euo pipefail
+
 
 cd "$(dirname "$0")"
 

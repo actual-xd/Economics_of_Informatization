@@ -1,51 +1,197 @@
 /Users/leo/Documents/gitProjects/Economics_of_Informatization/.venv/lib/python3.9/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
   warnings.warn(
-[I 2026-09-08 17:06:54.244 ServerApp] jupyter_lsp | extension was successfully linked.
-[I 2026-09-08 17:06:54.245 ServerApp] jupyter_server_terminals | extension was successfully linked.
-[I 2026-09-08 17:06:54.247 ServerApp] jupyterlab | extension was successfully linked.
-[I 2026-09-08 17:06:54.387 ServerApp] notebook_shim | extension was successfully linked.
-[I 2026-09-08 17:06:54.410 ServerApp] notebook_shim | extension was successfully loaded.
-[I 2026-09-08 17:06:54.411 ServerApp] jupyter_lsp | extension was successfully loaded.
-[I 2026-09-08 17:06:54.412 ServerApp] jupyter_server_terminals | extension was successfully loaded.
-[I 2026-09-08 17:06:54.413 LabApp] JupyterLab extension loaded from /Users/leo/Documents/gitProjects/Economics_of_Informatization/.venv/lib/python3.9/site-packages/jupyterlab
-[I 2026-09-08 17:06:54.413 LabApp] JupyterLab application directory is /Users/leo/Documents/gitProjects/Economics_of_Informatization/.venv/share/jupyter/lab
-[I 2026-09-08 17:06:54.413 LabApp] Extension Manager is 'pypi'.
-[I 2026-09-08 17:06:54.429 ServerApp] jupyterlab | extension was successfully loaded.
-[I 2026-09-08 17:06:54.429 ServerApp] Serving notebooks from local directory: /Users/leo/Documents/gitProjects/Economics_of_Informatization
-[I 2026-09-08 17:06:54.429 ServerApp] Jupyter Server 2.18.2 is running at:
-[I 2026-09-08 17:06:54.429 ServerApp] http://127.0.0.1:8888/lab?token=79a5860312c3e6538ea7fb7704499f115efe39954b60e9d0
-[I 2026-09-08 17:06:54.429 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
-[C 2026-09-08 17:06:54.430 ServerApp] 
+[I 2026-10-05 23:14:36.966 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2026-10-05 23:14:36.967 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2026-10-05 23:14:36.969 ServerApp] jupyterlab | extension was successfully linked.
+[I 2026-10-05 23:14:37.065 ServerApp] notebook_shim | extension was successfully linked.
+[I 2026-10-05 23:14:37.096 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2026-10-05 23:14:37.096 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2026-10-05 23:14:37.097 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2026-10-05 23:14:37.098 LabApp] JupyterLab extension loaded from /Users/leo/Documents/gitProjects/Economics_of_Informatization/.venv/lib/python3.9/site-packages/jupyterlab
+[I 2026-10-05 23:14:37.098 LabApp] JupyterLab application directory is /Users/leo/Documents/gitProjects/Economics_of_Informatization/.venv/share/jupyter/lab
+[I 2026-10-05 23:14:37.099 LabApp] Extension Manager is 'pypi'.
+[I 2026-10-05 23:14:37.136 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2026-10-05 23:14:37.136 ServerApp] Serving notebooks from local directory: /Users/leo/Documents/gitProjects/Economics_of_Informatization
+[I 2026-10-05 23:14:37.136 ServerApp] Jupyter Server 2.18.2 is running at:
+[I 2026-10-05 23:14:37.136 ServerApp] http://127.0.0.1:8888/lab?token=d2d76032528711d694e9376997d18cb10b82f46475fcd8ba
+[I 2026-10-05 23:14:37.137 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2026-10-05 23:14:37.138 ServerApp] 
     
     To access the server, open this file in a browser:
-        file:///Users/leo/Library/Jupyter/runtime/jpserver-9239-open.html
+        file:///Users/leo/Library/Jupyter/runtime/jpserver-2191-open.html
     Or copy and paste one of these URLs:
-        http://127.0.0.1:8888/lab?token=79a5860312c3e6538ea7fb7704499f115efe39954b60e9d0
-[I 2026-09-08 17:06:54.491 ServerApp] Skipped non-installed server(s): basedpyright, bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyrefly, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
-[W 2026-09-08 17:06:56.202 ServerApp] 404 GET /api/contents/erp_income_analysis.ipynb?content=0&hash=0&1788876416200 (4fc842a0e8fc41c6adb3e79b4c8afec7@127.0.0.1) 1.06ms referer=http://127.0.0.1:8888/lab
-[W 2026-09-08 17:06:56.202 ServerApp] 404 GET /api/contents/erp_income_analysis.ipynb?content=0&hash=0&1788876416200 (127.0.0.1): No such file or directory: erp_income_analysis.ipynb
-[W 2026-09-08 17:06:56.203 ServerApp] 404 GET /api/contents/ERP.ipynb?content=0&hash=0&1788876416200 (4fc842a0e8fc41c6adb3e79b4c8afec7@127.0.0.1) 0.53ms referer=http://127.0.0.1:8888/lab
-[W 2026-09-08 17:06:56.203 ServerApp] 404 GET /api/contents/ERP.ipynb?content=0&hash=0&1788876416200 (127.0.0.1): No such file or directory: ERP.ipynb
-[W 2026-09-08 17:06:56.203 ServerApp] 404 GET /api/contents/01.09.26.md?content=0&hash=0&1788876416200 (4fc842a0e8fc41c6adb3e79b4c8afec7@127.0.0.1) 0.65ms referer=http://127.0.0.1:8888/lab
-[W 2026-09-08 17:06:56.203 ServerApp] 404 GET /api/contents/01.09.26.md?content=0&hash=0&1788876416200 (127.0.0.1): No such file or directory: 01.09.26.md
-[W 2026-09-08 17:06:56.203 ServerApp] 404 GET /api/contents/erp_income_analysis.ipynb?content=0&hash=0&1788876416200 (4fc842a0e8fc41c6adb3e79b4c8afec7@127.0.0.1) 0.79ms referer=http://127.0.0.1:8888/lab
-[W 2026-09-08 17:06:56.203 ServerApp] 404 GET /api/contents/erp_income_analysis.ipynb?content=0&hash=0&1788876416200 (127.0.0.1): No such file or directory: erp_income_analysis.ipynb
-[W 2026-09-08 17:06:56.204 ServerApp] 404 GET /api/contents/ERP.ipynb?content=0&hash=0&1788876416200 (4fc842a0e8fc41c6adb3e79b4c8afec7@127.0.0.1) 0.39ms referer=http://127.0.0.1:8888/lab
-[W 2026-09-08 17:06:56.204 ServerApp] 404 GET /api/contents/ERP.ipynb?content=0&hash=0&1788876416200 (127.0.0.1): No such file or directory: ERP.ipynb
-[W 2026-09-08 17:06:56.204 ServerApp] 404 GET /api/contents/01.09.26.md?content=0&hash=0&1788876416200 (4fc842a0e8fc41c6adb3e79b4c8afec7@127.0.0.1) 0.49ms referer=http://127.0.0.1:8888/lab
-[W 2026-09-08 17:06:56.204 ServerApp] 404 GET /api/contents/01.09.26.md?content=0&hash=0&1788876416200 (127.0.0.1): No such file or directory: 01.09.26.md
-[W 2026-09-08 17:06:56.205 ServerApp] 404 GET /api/contents/erp_income_analysis.ipynb?content=0&hash=0&1788876416200 (4fc842a0e8fc41c6adb3e79b4c8afec7@127.0.0.1) 0.46ms referer=http://127.0.0.1:8888/lab
-[W 2026-09-08 17:06:56.205 ServerApp] 404 GET /api/contents/erp_income_analysis.ipynb?content=0&hash=0&1788876416200 (127.0.0.1): No such file or directory: erp_income_analysis.ipynb
-[W 2026-09-08 17:06:56.205 ServerApp] 404 GET /api/contents/ERP.ipynb?content=0&hash=0&1788876416201 (4fc842a0e8fc41c6adb3e79b4c8afec7@127.0.0.1) 0.52ms referer=http://127.0.0.1:8888/lab
-[W 2026-09-08 17:06:56.205 ServerApp] 404 GET /api/contents/ERP.ipynb?content=0&hash=0&1788876416201 (127.0.0.1): No such file or directory: ERP.ipynb
-[I 2026-09-08 17:06:56.263 LabApp] Build is up to date
-[I 2026-09-08 17:07:07.847 ServerApp] Creating new directory in 
-[W 2026-09-08 17:07:18.100 ServerApp] Notebook notebook/08.09.26.ipynb is not trusted
-[I 2026-09-08 17:07:18.315 ServerApp] Kernel started: f0f7132c-68bf-467e-b351-19944b60556f
-[I 2026-09-08 17:07:18.611 ServerApp] Connecting to kernel f0f7132c-68bf-467e-b351-19944b60556f.
-[W 2026-09-08 17:07:18.612 ServerApp] The websocket_ping_timeout (90000) cannot be longer than the websocket_ping_interval (30000).
+        http://127.0.0.1:8888/lab?token=d2d76032528711d694e9376997d18cb10b82f46475fcd8ba
+[I 2026-10-05 23:14:37.267 ServerApp] Skipped non-installed server(s): basedpyright, bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyrefly, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[W 2026-10-05 23:14:39.000 ServerApp] Notebook notebook/02.09.26.ipynb is not trusted
+[I 2026-10-05 23:14:39.002 LabApp] Build is up to date
+[I 2026-10-05 23:14:39.267 ServerApp] Kernel started: 40be48aa-b74b-43f1-834c-64c5de5fb7f8
+[I 2026-10-05 23:14:39.557 ServerApp] Connecting to kernel 40be48aa-b74b-43f1-834c-64c5de5fb7f8.
+[W 2026-10-05 23:14:39.557 ServerApp] The websocket_ping_timeout (90000) cannot be longer than the websocket_ping_interval (30000).
     Setting websocket_ping_timeout=30000
-[I 2026-09-08 17:07:18.615 ServerApp] Connecting to kernel f0f7132c-68bf-467e-b351-19944b60556f.
-[I 2026-09-08 17:07:18.617 ServerApp] Connecting to kernel f0f7132c-68bf-467e-b351-19944b60556f.
-[I 2026-09-08 17:09:18.149 ServerApp] Saving file at /notebook/08.09.26.ipynb
-[W 2026-09-08 17:09:18.149 ServerApp] Notebook notebook/08.09.26.ipynb is not trusted
+[I 2026-10-05 23:14:39.559 ServerApp] Connecting to kernel 40be48aa-b74b-43f1-834c-64c5de5fb7f8.
+[I 2026-10-05 23:14:39.562 ServerApp] Connecting to kernel 40be48aa-b74b-43f1-834c-64c5de5fb7f8.
+[W 2026-10-05 23:14:39.567 ServerApp] Got events for closed stream <zmq.eventloop.zmqstream.ZMQStream object at 0x10d297040>
+[I 2026-10-05 23:14:44.740 ServerApp] Kernel started: 32ad07b1-cd80-40bd-84d4-8dbdadcccdaa
+[I 2026-10-05 23:14:45.068 ServerApp] Connecting to kernel 32ad07b1-cd80-40bd-84d4-8dbdadcccdaa.
+[W 2026-10-05 23:14:50.385 ServerApp] Notebook notebook/lab3.ipynb is not trusted
+[I 2026-10-05 23:14:50.531 ServerApp] Kernel started: 3811fc5e-3bdf-4a4a-b692-a209da88677b
+[I 2026-10-05 23:14:50.866 ServerApp] Connecting to kernel 3811fc5e-3bdf-4a4a-b692-a209da88677b.
+[I 2026-10-05 23:14:56.857 ServerApp] Kernel restarted: 3811fc5e-3bdf-4a4a-b692-a209da88677b
+[I 2026-10-05 23:14:56.860 ServerApp] Starting buffering for 3811fc5e-3bdf-4a4a-b692-a209da88677b:42616554-fcb1-42bf-b5f2-3aba9a73bdde
+[I 2026-10-05 23:14:56.864 ServerApp] Connecting to kernel 3811fc5e-3bdf-4a4a-b692-a209da88677b.
+[I 2026-10-05 23:14:56.864 ServerApp] Restoring connection for 3811fc5e-3bdf-4a4a-b692-a209da88677b:42616554-fcb1-42bf-b5f2-3aba9a73bdde
+ERROR:tornado.general:Uncaught exception in ZMQStream callback
+Traceback (most recent call last):
+  File "/Users/leo/Documents/gitProjects/Economics_of_Informatization/.venv/lib/python3.9/site-packages/traitlets/traitlets.py", line 651, in get
+    value = obj._trait_values[self.name]
+KeyError: '_control_lock'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/leo/Documents/gitProjects/Economics_of_Informatization/.venv/lib/python3.9/site-packages/zmq/eventloop/zmqstream.py", line 566, in _log_error
+    f.result()
+  File "/Users/leo/Documents/gitProjects/Economics_of_Informatization/.venv/lib/python3.9/site-packages/ipykernel/kernelbase.py", line 301, in dispatch_control
+    async with self._control_lock:
+  File "/Users/leo/Documents/gitProjects/Economics_of_Informatization/.venv/lib/python3.9/site-packages/traitlets/traitlets.py", line 706, in __get__
+    return self.get(obj, cls)  # type:ignore[return-value]
+  File "/Users/leo/Documents/gitProjects/Economics_of_Informatization/.venv/lib/python3.9/site-packages/traitlets/traitlets.py", line 668, in get
+    value = self._validate(obj, default)
+  File "/Users/leo/Documents/gitProjects/Economics_of_Informatization/.venv/lib/python3.9/site-packages/traitlets/traitlets.py", line 741, in _validate
+    value = self.validate(obj, value)
+  File "/Users/leo/Documents/gitProjects/Economics_of_Informatization/.venv/lib/python3.9/site-packages/traitlets/traitlets.py", line 2319, in validate
+    self.error(obj, value)
+  File "/Users/leo/Documents/gitProjects/Economics_of_Informatization/.venv/lib/python3.9/site-packages/traitlets/traitlets.py", line 850, in error
+    raise TraitError(e)
+traitlets.traitlets.TraitError: The '_control_lock' trait of an IPythonKernel instance expected a Lock, not the NoneType None.
+[I 2026-10-05 23:16:39.187 ServerApp] Saving file at /notebook/02.09.26.ipynb
+[W 2026-10-05 23:16:39.188 ServerApp] Notebook notebook/02.09.26.ipynb is not trusted
+[I 2026-10-05 23:16:50.423 ServerApp] Saving file at /notebook/lab3.ipynb
+[I 2026-10-05 23:20:27.310 ServerApp] Kernel restarted: 3811fc5e-3bdf-4a4a-b692-a209da88677b
+[I 2026-10-05 23:20:27.313 ServerApp] Starting buffering for 3811fc5e-3bdf-4a4a-b692-a209da88677b:42616554-fcb1-42bf-b5f2-3aba9a73bdde
+[I 2026-10-05 23:20:27.316 ServerApp] Connecting to kernel 3811fc5e-3bdf-4a4a-b692-a209da88677b.
+[I 2026-10-05 23:20:27.316 ServerApp] Restoring connection for 3811fc5e-3bdf-4a4a-b692-a209da88677b:42616554-fcb1-42bf-b5f2-3aba9a73bdde
+[I 2026-10-05 23:20:38.563 ServerApp] Starting buffering for 3811fc5e-3bdf-4a4a-b692-a209da88677b:42616554-fcb1-42bf-b5f2-3aba9a73bdde
+[W 2026-10-05 23:20:41.090 ServerApp] Notebook notebook/lab3.ipynb is not trusted
+[I 2026-10-05 23:20:41.215 ServerApp] Connecting to kernel 3811fc5e-3bdf-4a4a-b692-a209da88677b.
+[I 2026-10-05 23:20:46.258 ServerApp] Kernel restarted: 3811fc5e-3bdf-4a4a-b692-a209da88677b
+[I 2026-10-05 23:20:46.264 ServerApp] Starting buffering for 3811fc5e-3bdf-4a4a-b692-a209da88677b:170829f5-891d-46d4-8ba6-114650f6a5c1
+[I 2026-10-05 23:20:46.266 ServerApp] Connecting to kernel 3811fc5e-3bdf-4a4a-b692-a209da88677b.
+[I 2026-10-05 23:20:46.266 ServerApp] Restoring connection for 3811fc5e-3bdf-4a4a-b692-a209da88677b:170829f5-891d-46d4-8ba6-114650f6a5c1
+[I 2026-10-05 23:22:41.126 ServerApp] Saving file at /notebook/lab3.ipynb
+[W 2026-10-05 23:42:22.980 ServerApp] Notebook notebook/lab4.ipynb is not trusted
+[I 2026-10-05 23:42:23.147 ServerApp] Kernel started: aa07d181-777d-4331-9f1a-24ddad17143e
+[I 2026-10-05 23:42:23.445 ServerApp] Connecting to kernel aa07d181-777d-4331-9f1a-24ddad17143e.
+[I 2026-10-05 23:42:33.966 ServerApp] Starting buffering for 40be48aa-b74b-43f1-834c-64c5de5fb7f8:7f4bd836-01d6-491d-9c0d-19ce820a200a
+[I 2026-10-05 23:42:38.615 ServerApp] Saving file at /notebook/lab4.ipynb
+[W 2026-10-05 23:42:38.616 ServerApp] Notebook notebook/lab4.ipynb is not trusted
+[I 2026-10-05 23:42:38.639 ServerApp] Starting buffering for aa07d181-777d-4331-9f1a-24ddad17143e:1c8c03d3-a417-48b7-b031-094df3ac5b25
+[I 2026-10-05 23:42:39.749 ServerApp] Starting buffering for 3811fc5e-3bdf-4a4a-b692-a209da88677b:170829f5-891d-46d4-8ba6-114650f6a5c1
+[I 2026-10-05 23:42:40.097 ServerApp] Starting buffering for 32ad07b1-cd80-40bd-84d4-8dbdadcccdaa:05eca731-add3-4aea-84f0-a6cd892f3d51
+[W 2026-10-05 23:42:41.340 ServerApp] Notebook notebook/lab4.ipynb is not trusted
+[I 2026-10-05 23:42:41.453 ServerApp] Connecting to kernel aa07d181-777d-4331-9f1a-24ddad17143e.
+[W 2026-10-05 23:43:00.874 ServerApp] Notebook notebook/02.09.26.ipynb is not trusted
+[I 2026-10-05 23:43:00.976 ServerApp] Connecting to kernel 32ad07b1-cd80-40bd-84d4-8dbdadcccdaa.
+[I 2026-10-05 23:43:02.039 ServerApp] Connecting to kernel 40be48aa-b74b-43f1-834c-64c5de5fb7f8.
+[I 2026-10-06 00:25:25.248 ServerApp] Saving file at /notebook/08.09.26.ipynb
+[I 2026-10-06 00:25:26.515 ServerApp] Saving file at /notebook/08.09.26.ipynb
+[I 2026-10-06 14:11:56.550 ServerApp] Starting buffering for 32ad07b1-cd80-40bd-84d4-8dbdadcccdaa:df78410e-0143-470c-b2c1-08e37a7f5c92
+[I 2026-10-06 14:11:56.554 ServerApp] Starting buffering for 40be48aa-b74b-43f1-834c-64c5de5fb7f8:47331c38-b7f7-4687-9f53-b124a2223ea2
+[I 2026-10-06 14:11:56.554 ServerApp] Starting buffering for aa07d181-777d-4331-9f1a-24ddad17143e:5f019745-a81a-4a70-a486-22b80ee07605
+[I 2026-10-06 14:11:56.565 ServerApp] Connecting to kernel 32ad07b1-cd80-40bd-84d4-8dbdadcccdaa.
+[I 2026-10-06 14:11:56.565 ServerApp] Restoring connection for 32ad07b1-cd80-40bd-84d4-8dbdadcccdaa:df78410e-0143-470c-b2c1-08e37a7f5c92
+[I 2026-10-06 14:11:56.575 ServerApp] Connecting to kernel 40be48aa-b74b-43f1-834c-64c5de5fb7f8.
+[I 2026-10-06 14:11:56.575 ServerApp] Restoring connection for 40be48aa-b74b-43f1-834c-64c5de5fb7f8:47331c38-b7f7-4687-9f53-b124a2223ea2
+[I 2026-10-06 14:11:56.577 ServerApp] Starting buffering for 32ad07b1-cd80-40bd-84d4-8dbdadcccdaa:df78410e-0143-470c-b2c1-08e37a7f5c92
+[I 2026-10-06 14:11:56.589 ServerApp] Starting buffering for 40be48aa-b74b-43f1-834c-64c5de5fb7f8:47331c38-b7f7-4687-9f53-b124a2223ea2
+[I 2026-10-06 14:11:56.859 ServerApp] Connecting to kernel 40be48aa-b74b-43f1-834c-64c5de5fb7f8.
+[I 2026-10-06 14:11:56.863 ServerApp] Connecting to kernel 32ad07b1-cd80-40bd-84d4-8dbdadcccdaa.
+[I 2026-10-06 14:11:56.870 ServerApp] Connecting to kernel 3811fc5e-3bdf-4a4a-b692-a209da88677b.
+[I 2026-10-06 14:11:56.874 ServerApp] Connecting to kernel aa07d181-777d-4331-9f1a-24ddad17143e.
+[I 2026-10-06 14:11:56.877 ServerApp] Starting buffering for 40be48aa-b74b-43f1-834c-64c5de5fb7f8:93d13e94-b0e0-4c73-bfc4-073ea2a65fed
+[I 2026-10-06 14:11:56.881 ServerApp] Starting buffering for 32ad07b1-cd80-40bd-84d4-8dbdadcccdaa:ea61872d-cb25-4ec6-80ba-92812f0ae373
+[I 2026-10-06 14:11:56.883 ServerApp] Starting buffering for 3811fc5e-3bdf-4a4a-b692-a209da88677b:646517c9-2f15-4953-8c76-7261d7902cfe
+[I 2026-10-06 14:11:56.885 ServerApp] Starting buffering for aa07d181-777d-4331-9f1a-24ddad17143e:3291fd41-c9b8-47e0-813f-b79d5e67b4c8
+[I 2026-10-06 14:11:57.171 LabApp] Build is up to date
+[I 2026-10-06 14:11:58.352 ServerApp] Connecting to kernel 40be48aa-b74b-43f1-834c-64c5de5fb7f8.
+[I 2026-10-06 14:12:37.129 ServerApp] Connecting to kernel 3811fc5e-3bdf-4a4a-b692-a209da88677b.
+[I 2026-10-06 14:14:15.578 ServerApp] Kernel shutdown: 40be48aa-b74b-43f1-834c-64c5de5fb7f8
+[I 2026-10-06 14:14:15.581 ServerApp] Kernel shutdown: 32ad07b1-cd80-40bd-84d4-8dbdadcccdaa
+[I 2026-10-06 14:14:15.581 ServerApp] Kernel shutdown: 3811fc5e-3bdf-4a4a-b692-a209da88677b
+[I 2026-10-06 14:14:15.582 ServerApp] Kernel shutdown: aa07d181-777d-4331-9f1a-24ddad17143e
+[I 2026-10-06 14:14:29.262 ServerApp] Kernel started: 8a74ba91-e273-4911-b66e-50da9fd6eb3a
+[I 2026-10-06 14:14:29.697 ServerApp] Connecting to kernel 8a74ba91-e273-4911-b66e-50da9fd6eb3a.
+[W 2026-10-06 14:17:07.893 ServerApp] Notebook notebook/lab4.ipynb is not trusted
+[I 2026-10-06 14:17:08.021 ServerApp] Kernel started: f8c8e49b-1499-4239-9b2d-488c22f499f0
+[I 2026-10-06 14:17:08.320 ServerApp] Connecting to kernel f8c8e49b-1499-4239-9b2d-488c22f499f0.
+[I 2026-10-06 14:17:12.617 ServerApp] Kernel restarted: f8c8e49b-1499-4239-9b2d-488c22f499f0
+[I 2026-10-06 14:17:12.620 ServerApp] Starting buffering for f8c8e49b-1499-4239-9b2d-488c22f499f0:1a02fb1a-75d0-4cb7-821e-a99899c55853
+[I 2026-10-06 14:17:12.622 ServerApp] Connecting to kernel f8c8e49b-1499-4239-9b2d-488c22f499f0.
+[I 2026-10-06 14:17:12.622 ServerApp] Restoring connection for f8c8e49b-1499-4239-9b2d-488c22f499f0:1a02fb1a-75d0-4cb7-821e-a99899c55853
+ERROR:tornado.general:Uncaught exception in ZMQStream callback
+Traceback (most recent call last):
+  File "/Users/leo/Documents/gitProjects/Economics_of_Informatization/.venv/lib/python3.9/site-packages/traitlets/traitlets.py", line 651, in get
+    value = obj._trait_values[self.name]
+KeyError: '_control_lock'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/leo/Documents/gitProjects/Economics_of_Informatization/.venv/lib/python3.9/site-packages/zmq/eventloop/zmqstream.py", line 566, in _log_error
+    f.result()
+  File "/Users/leo/Documents/gitProjects/Economics_of_Informatization/.venv/lib/python3.9/site-packages/ipykernel/kernelbase.py", line 301, in dispatch_control
+    async with self._control_lock:
+  File "/Users/leo/Documents/gitProjects/Economics_of_Informatization/.venv/lib/python3.9/site-packages/traitlets/traitlets.py", line 706, in __get__
+    return self.get(obj, cls)  # type:ignore[return-value]
+  File "/Users/leo/Documents/gitProjects/Economics_of_Informatization/.venv/lib/python3.9/site-packages/traitlets/traitlets.py", line 668, in get
+    value = self._validate(obj, default)
+  File "/Users/leo/Documents/gitProjects/Economics_of_Informatization/.venv/lib/python3.9/site-packages/traitlets/traitlets.py", line 741, in _validate
+    value = self.validate(obj, value)
+  File "/Users/leo/Documents/gitProjects/Economics_of_Informatization/.venv/lib/python3.9/site-packages/traitlets/traitlets.py", line 2319, in validate
+    self.error(obj, value)
+  File "/Users/leo/Documents/gitProjects/Economics_of_Informatization/.venv/lib/python3.9/site-packages/traitlets/traitlets.py", line 850, in error
+    raise TraitError(e)
+traitlets.traitlets.TraitError: The '_control_lock' trait of an IPythonKernel instance expected a Lock, not the NoneType None.
+[I 2026-10-06 14:17:29.684 ServerApp] Kernel restarted: f8c8e49b-1499-4239-9b2d-488c22f499f0
+[I 2026-10-06 14:17:29.687 ServerApp] Starting buffering for f8c8e49b-1499-4239-9b2d-488c22f499f0:1a02fb1a-75d0-4cb7-821e-a99899c55853
+[I 2026-10-06 14:17:29.690 ServerApp] Connecting to kernel f8c8e49b-1499-4239-9b2d-488c22f499f0.
+[I 2026-10-06 14:17:29.690 ServerApp] Restoring connection for f8c8e49b-1499-4239-9b2d-488c22f499f0:1a02fb1a-75d0-4cb7-821e-a99899c55853
+[I 2026-10-06 14:19:07.984 ServerApp] Saving file at /notebook/lab4.ipynb
+[E 2026-10-06 14:20:17.385 ServerApp] Uncaught exception GET /lab/api/extensions?query&page=1&per_page=30&refresh=0&1791285616322 (127.0.0.1)
+    HTTPServerRequest(protocol='http', host='127.0.0.1:8888', method='GET', uri='/lab/api/extensions?query&page=1&per_page=30&refresh=0&1791285616322', version='HTTP/1.1', remote_ip='127.0.0.1')
+    Traceback (most recent call last):
+      File "/Users/leo/Documents/gitProjects/Economics_of_Informatization/.venv/lib/python3.9/site-packages/tornado/web.py", line 1886, in _execute
+        result = await result
+      File "/Users/leo/Documents/gitProjects/Economics_of_Informatization/.venv/lib/python3.9/site-packages/jupyterlab/handlers/extension_manager_handler.py", line 37, in get
+        extensions, last_page = await self.manager.list_extensions(query, page, per_page)
+      File "/Users/leo/Documents/gitProjects/Economics_of_Informatization/.venv/lib/python3.9/site-packages/jupyterlab/extensions/manager.py", line 475, in list_extensions
+        await self.refresh(query, page, per_page)
+      File "/Users/leo/Documents/gitProjects/Economics_of_Informatization/.venv/lib/python3.9/site-packages/jupyterlab/extensions/manager.py", line 509, in refresh
+        await self._update_extensions_list(query, page, per_page)
+      File "/Users/leo/Documents/gitProjects/Economics_of_Informatization/.venv/lib/python3.9/site-packages/jupyterlab/extensions/manager.py", line 702, in _update_extensions_list
+        extensions, last_page = await self.list_packages(query, page, per_page)
+      File "/Users/leo/Documents/gitProjects/Economics_of_Informatization/.venv/lib/python3.9/site-packages/jupyterlab/extensions/pypi.py", line 306, in list_packages
+        matches = await self.__get_all_extensions()
+      File "/Users/leo/Documents/gitProjects/Economics_of_Informatization/.venv/lib/python3.9/site-packages/jupyterlab/extensions/pypi.py", line 391, in __get_all_extensions
+        self.__all_packages_cache = await self.__throttleRequest(
+      File "/Users/leo/Documents/gitProjects/Economics_of_Informatization/.venv/lib/python3.9/site-packages/jupyterlab/extensions/pypi.py", line 276, in __throttleRequest
+        return data
+    UnboundLocalError: local variable 'data' referenced before assignment
+[W 2026-10-06 14:20:17.405 ServerApp] wrote error: 'Unhandled error'
+[E 2026-10-06 14:20:17.405 ServerApp] {
+      "Host": "127.0.0.1:8888",
+      "Accept": "*/*",
+      "Referer": "http://127.0.0.1:8888/doc/tree/notebook/lab4.ipynb",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:157.0) Gecko/20100101 Firefox/157.0"
+    }
+[E 2026-10-06 14:20:17.405 ServerApp] 500 GET /lab/api/extensions?query&page=1&per_page=30&refresh=0&1791285616322 (4fc842a0e8fc41c6adb3e79b4c8afec7@127.0.0.1) 1080.32ms referer=http://127.0.0.1:8888/doc/tree/notebook/lab4.ipynb
+[I 2026-10-06 14:21:08.626 ServerApp] Saving file at /notebook/lab4.ipynb
+[W 2026-10-06 14:22:42.043 ServerApp] Notebook notebook/02.09.26.ipynb is not trusted
+[I 2026-10-06 14:22:42.319 ServerApp] Kernel started: 7f480148-75d6-4cfb-98ed-c070cb595a62
+[I 2026-10-06 14:22:42.327 ServerApp] Kernel started: 0e1c0ce4-6684-42f3-a6ad-46ade3ae8171
+[I 2026-10-06 14:22:42.784 ServerApp] Connecting to kernel 7f480148-75d6-4cfb-98ed-c070cb595a62.
+[I 2026-10-06 14:22:42.790 ServerApp] Connecting to kernel 0e1c0ce4-6684-42f3-a6ad-46ade3ae8171.
+[I 2026-10-06 14:28:29.840 ServerApp] Saving file at /notebook/lab3.ipynb
+[I 2026-10-06 17:15:16.564 ServerApp] Saving file at /notebook/lab4.ipynb
+[I 2026-10-06 17:35:51.351 ServerApp] Saving file at /notebook/lab4.ipynb
+[I 2026-10-06 17:37:13.615 ServerApp] Saving file at /notebook/lab3.ipynb
